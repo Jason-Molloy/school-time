@@ -1,6 +1,5 @@
 let mongoose = require('mongoose')
 let Teachers = require('./teacher')
-///needs a few more variables for completion
 let Schema = mongoose.Schema
 
 let classroom = new Schema({

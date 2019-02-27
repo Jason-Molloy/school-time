@@ -1,6 +1,5 @@
 let mongoose = require('mongoose')
 let Classrooms = require('./classroom')
-///needs a few more variables for completion
 let Schema = mongoose.Schema
 
 let school = new Schema({

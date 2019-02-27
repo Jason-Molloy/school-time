@@ -23,5 +23,5 @@ server.use('/api/students', studentRoutes.router)
 
 
 server.listen(port, () => {
-  console.log('serving')
+  console.log()
 })
